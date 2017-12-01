@@ -1,0 +1,75 @@
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.main-header {
+    margin-bottom: 60px;
+}
+
+.main-navigation {
+    width: 780px;
+    min-height: 70px;
+    float: left;
+}
+
+.product-filters {
+    width: 220px;
+    margin-right: 20px;
+    float: left;
+}
+
+.products {
+    width: 700px;
+    float: left;
+}
+
+.product-items {
+    overflow: auto;
+}
+
+.card {
+    width: 220px;
+    float: left;
+    margin: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.card:nth-child(3n) {
+    margin-right: 0;
+}
+
+.navigator_bottom {
+    margin-top: 25px;
+}
+
+main {
+    overflow: auto;
+}
+
+.main-footer {
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    overflow: auto;
+}
+
+.footer-contacts {
+    float: left;
+    width: 320px;
+    margin-right: 60px;
+}
+
+.footer-social {
+    float: left;
+    width: 180px;
+}
+
+.footer-copyright {
+    float: right;
+    width: 180px;
+}
+
+
